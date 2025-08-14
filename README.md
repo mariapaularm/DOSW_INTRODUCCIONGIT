@@ -60,6 +60,7 @@ JACOB DIAZ ALVARDO
    ![image](https://github.com/PDSW-ECI/labs/assets/118181543/716464e4-d663-477d-a87d-0f2944e5b709)
 
    Owner: Maria Paula Rodriguez
+   
    Collaborator: Jacob Diaz
 
 2.	El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
