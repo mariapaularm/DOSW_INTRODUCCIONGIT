@@ -28,10 +28,8 @@ JACOB DIAZ ALVARDO
 ![image](https://github.com/PDSW-ECI/labs/assets/118181543/7c1cafdf-9a35-4180-99c4-8cabd84d21b8)
 
    
-6.	Configura el repositorio local con el repositorio remoto.
-
-      [Como subir un proyecto local a github.](https://gist.github.com/cgonzalezdai/cc33db72a6fe5178637aabb562eae35c)
-  
+6.	Configura el repositorio local con el repositorio remoto.  
+   	  <img width="557" height="91" alt="image" src="https://github.com/user-attachments/assets/356dc722-568a-4f0a-b26a-244f921b6895" />
 7.	Sube los cambios, teniendo en cuenta lo que averiguaste en el punto 3
     Utiliza los siguientes comando en el directorio donde tienes tu proyecto, en este orden:
    	```bash
@@ -45,9 +43,13 @@ JACOB DIAZ ALVARDO
     ```bash
       git push "url repositorio"
     ```
+    <img width="497" height="301" alt="image" src="https://github.com/user-attachments/assets/25699160-ef74-4d47-a3b0-22970c7555ac" />
+
 8.	Configura el correo en git local de manera correcta
-     [Configurar correo electrónico en GitHub](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)
-9.	Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
+  	  <img width="557" height="91" alt="image" src="https://github.com/user-attachments/assets/356dc722-568a-4f0a-b26a-244f921b6895" />
+
+10.	Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
+    
 
 ## PARTE II (Trabajo en parejas)
 
@@ -126,9 +128,3 @@ Y así protegimos nuestra rama principal, esto se vuelve muy relevante cuando tr
 
 ![image](https://github.com/PDSW-ECI/labs/assets/118181543/1e39b81c-82c8-4fec-b2e6-b339c782b6ad)
 
-
-## ENTREGA
-- En un README.md colocar lo siguiente:
-- Una sección llamada “INTEGRANTES” y allí colocar el listado de los integrantes del taller (máximo 2).
-- Una sección llamada “RESPUESTAS” colocar las respuestas a las preguntas.
-- La entrega deberá realizarla en Moodle en el espacio correspondiente a su grupo.
