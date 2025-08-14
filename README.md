@@ -14,11 +14,13 @@ JACOB DIAZ
 1.	Crea un repositorio localmente.
 2.	Agrega un archivo de ejemplo al repositorio, el **README.md** puede ser una gran opción.
 3.	Averigua para qué sirve y como se usan estos comandos **git add** y **git commit -m “mensaje”**
-4. Abre una cuenta de github, si ya la tienes, enlazala con el correo institucional.
+- git add: sirve para preparar los cambios realizados para añadirlos en el directorio actual. Se ejecuta git add seguido de el nombre del archivo o archivos que se desean incluir
+- git commit -m "message": sivre para guardar los cambios realizados en un proyecto capturando el estado actual de los archivos.
+5. Abre una cuenta de github, si ya la tienes, enlazala con el correo institucional.
    
    [Como enlazar correos en GitHub](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/adding-an-email-address-to-your-github-account)
    
-5.	Crea un repositorio en blanco (vacío) e GitHub.
+6.	Crea un repositorio en blanco (vacío) e GitHub.
 
 ![image](https://github.com/PDSW-ECI/labs/assets/118181543/0a6db4de-3682-4e43-838c-415373596947)
 ![image](https://github.com/PDSW-ECI/labs/assets/118181543/7c1cafdf-9a35-4180-99c4-8cabd84d21b8)
