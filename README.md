@@ -8,18 +8,19 @@ JACOB DIAZ ALVARDO
  ![image](https://github.com/PDSW-ECI/labs/assets/118181543/7b7bba48-cbfb-4327-bec8-f72dc0d258e0)
 
 - En el presente laboratorio vamos a aprender los manejos básicos de GitHub, esto con el propósito de que entiendas y comiences a trabajar con esta herramienta. Para este laboratorio se trabajará de manera individual la primera parte y con dos integrantes en la segunda parte.
+
+# RESPUESTAS 
   
 ## PARTE I (Trabajo Individual). 
 
 1.	Crea un repositorio localmente.
 2.	Agrega un archivo de ejemplo al repositorio, el **README.md** puede ser una gran opción.
-3.	Averigua para qué sirve y como se usan estos comandos **git add** y **git commit -m “mensaje”**
+   <img width="494" height="597" alt="image" src="https://github.com/user-attachments/assets/9ecd0a73-9303-4662-a522-a61fd82cca52" />
+3. Averigua para qué sirve y como se usan estos comandos **git add** y **git commit -m “mensaje”**
 - git add: sirve para preparar los cambios realizados para añadirlos en el directorio actual. Se ejecuta git add seguido de el nombre del archivo o archivos que se desean incluir
 - git commit -m "message": sivre para guardar los cambios realizados en un proyecto capturando el estado actual de los archivos.
-5. Abre una cuenta de github, si ya la tienes, enlazala con el correo institucional.
-   
-   [Como enlazar correos en GitHub](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/adding-an-email-address-to-your-github-account)
-   
+4. Abre una cuenta de github, si ya la tienes, enlazala con el correo institucional.
+  <img width="975" height="451" alt="image" src="https://github.com/user-attachments/assets/a2d995f0-54ac-459a-9bdf-5ce92145c7ae" />
 6.	Crea un repositorio en blanco (vacío) e GitHub.
 
 ![image](https://github.com/PDSW-ECI/labs/assets/118181543/0a6db4de-3682-4e43-838c-415373596947)
