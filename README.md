@@ -61,6 +61,8 @@ JACOB DIAZ
 6.	¿Que sucedió?
 #### Respuesta 
 Después de que alguien realice un commit, el otro colaborador no puede editar el README
+
+
 8.	La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos `<<<` `===` y `>>>` (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
          [Como resolver Conflictos GitHub](https://docs.github.com/es/enterprise-cloud@latest/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)
          
