@@ -18,15 +18,15 @@ ESCUELA COLOMBIANA DE INGENIERÍA - CICLOS DE VIDA DE DESARROLLO DE SOFTWARE
 
 1.	Crea un repositorio localmente.
 
-![img](image.png)
+![img](images/image.png)
 
 2.	Agrega un archivo de ejemplo al repositorio, el **README.md** puede ser una gran opción.
 
-![img1](image-1.png)
+![img1](images/image-1.png)
 
-![img2](image-2.png)
+![img2](images/image-2.png)
 
-![img3](image-3.png)
+![img3](images/image-3.png)
 
 3.	Averigua para qué sirve y como se usan estos comandos **git add** y **git commit -m “mensaje”**
 #### git add
@@ -39,28 +39,28 @@ Sirve para guardar los cambios de un proyecto capturando el estado actual de los
 
 Ya la tenia enlazada desde el semestre pasado
 
-![img4](image-4.png)
+![img4](images/image-4.png)
    
 5.	Crea un repositorio en blanco (vacío) e GitHub.
 
-![img5](image-5.png)  
+![img5](images/image-5.png)  
 
 6.	Configura el repositorio local con el repositorio remoto.
 
-![img6](image-6.png)
+![img6](images/image-6.png)
 
 7.	Sube los cambios, teniendo en cuenta lo que averiguaste en el punto 3
 
-![img8](image-8.png)
+![img8](images/image-8.png)
 
 8.	Configura el correo en git local de manera correcta
 
-![img9](image-9.png)
+![img9](images/image-9.png)
 
 9.	Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
 
-![img11](image-11.png)
-![img12](image-12.png)
+![img11](images/image-11.png)
+![img12](images/image-12.png)
 
 ## PARTE II (Trabajo en parejas)
 
@@ -71,29 +71,29 @@ Ya la tenia enlazada desde el semestre pasado
 
 2.	El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
 
-![img10](image-10.png)
+![img10](images/image-10.png)
    
 3.	El owner le comparte la url via Teams al colaborador
 4.	El colaborador acepta la invitación al repositorio
 
-![img13](image-13.png)
+![img13](images/image-13.png)
 
 5.	Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
 
 Edición del Owner:
 
-![img14](image-14.png)
+![img14](images/image-14.png)
 
 Edición del Colaborador:
 
-![img15](image-15.png)
+![img15](images/image-15.png)
 
 6.	¿Que sucedió?
 
 El que se demoró más no pudo hacer el commit y salió el siguiente error
 
-![img16](image-16.png)
-![img17](image-17.png)
+![img16](images/image-16.png)
+![img17](images/image-17.png)
 
 7.	La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos `<<<` `===` y `>>>` (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
 
@@ -103,7 +103,7 @@ En nuestro caso no salieron esos símbolos
 
 Esta vez se decidió editar sobre la misma línea
 
-![img18](image-18.png)
+![img18](images/image-18.png)
    
 9.	Resuelvan el conflicto con IntelliJ si es posible,  [Resolver conflictos en IntelliJ]( https://www.jetbrains.com/help/idea/resolving-conflicts.html#distributed-version-control-systems)
 
@@ -111,19 +111,19 @@ Si fue posible conectar git/github con IntelliJ.
 
 Lo primero que apereció fue esto:
 
-![img19](image-19.png)
+![img19](images/image-19.png)
 
 Luego salió esto:
 
-![img20](image-20.png)
+![img20](images/image-20.png)
 
 Aquí IntelliJ permite elegir con cuál versión quedarnos:
 
-![img21](image-21.png)
+![img21](images/image-21.png)
 
 Se decide quedarse con la version del Owner:
 
-![img22](image-22.png)
+![img22](images/image-22.png)
 
 ## PARTE III (Trabajo de a parejas)
 1.	¿Hay una mejor forma de trabajar con git para no tener conflictos?
@@ -139,40 +139,40 @@ Si no es el propietario del repositorio, primero se debe crear un fork (copia de
 
 3.	Creen una rama cada uno y suban sus cambios
 
-![img23](image-23.png)
+![img23](images/image-23.png)
 
-![img24](image-24.png)
+![img24](images/image-24.png)
 
 4.	Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master
 
 ### Cambios hechos por Owner (Maria)
 
-![img25](image-25.png)
+![img25](images/image-25.png)
 
-![img26](image-26.png)
+![img26](images/image-26.png)
 
-![img30](image-30.png)
+![img30](images/image-30.png)
 
 ### Cambio hechos por Colaborator (Jacobo)
 
-![img28](image-28.png)
+![img28](images/image-28.png)
 
-![img27](image-27.png)
+![img27](images/image-27.png)
 
-![img29](image-29.png)
+![img29](images/image-29.png)
 
  **(Recomendación : deben trabajar en equipo y distribuirse de mejor manera quien va a modificar qué, para evitar modificar los mismos archivos al mismo tiempo, si no se editan los mismos archivos la resolución de conflictos es automática)**
 
 5.	Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github)
 
-![img35](image-35.png)
-![img36](image-36.png)
+![img35](images/image-35.png)
+![img36](images/image-36.png)
 
-![img31](image-31.png)
-![img32](image-32.png)
+![img31](images/image-31.png)
+![img32](images/image-32.png)
 
-![img33](image-33.png)
-![img34](image-34.png)
+![img33](images/image-33.png)
+![img34](images/image-34.png)
 
 
 
