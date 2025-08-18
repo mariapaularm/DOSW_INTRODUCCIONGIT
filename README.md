@@ -47,7 +47,7 @@ Ya la tenia enlazada desde el semestre pasado
 
 6.	Configura el repositorio local con el repositorio remoto.
 
-![img7](image-7.png)
+![img6](image-6.png)
 
 7.	Sube los cambios, teniendo en cuenta lo que averiguaste en el punto 3
 
