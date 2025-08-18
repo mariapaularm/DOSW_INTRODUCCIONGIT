@@ -59,8 +59,8 @@ Ya la tenia enlazada desde el semestre pasado
 
 9.	Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
 
-![img10](image-10.png)
-
+![img11](image-11.png)
+![img12](image-12.png)
 
 
 
