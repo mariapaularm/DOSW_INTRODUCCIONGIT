@@ -53,5 +53,14 @@ Ya la tenia enlazada desde el semestre pasado
 
 ![img8](image-8.png)
 
+8.	Configura el correo en git local de manera correcta
+
+![img9](image-9.png)
+
+9.	Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
+
+![img10](image-10.png)
+
+
 
 
